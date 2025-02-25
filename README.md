@@ -8,4 +8,4 @@ This project focuses on analyzing customer reviews of British Airways using Sent
 ![3f36843a-2fa0-4ea4-8aa6-9a22fb5555f2](https://github.com/user-attachments/assets/d3be3cc4-a234-426e-90dc-84a7b7f2df96)
 ![4972e6a9-2b15-407f-a94e-db4b569071f3](https://github.com/user-attachments/assets/596837e6-898b-47b5-9415-a147b231961e)
 ![72e1a982-c189-4773-a2ed-1ac810f65183](https://github.com/user-attachments/assets/bcca9c02-e9f5-4f7c-b191-a2e324f50519)
-![16e53af5-3f42-48e4-bd49-e5dcc0cc028d](https://github.com/user-attachments/assets/db3b9971-7bd6-49f0-88b8-04d2bafc0f49)
+
